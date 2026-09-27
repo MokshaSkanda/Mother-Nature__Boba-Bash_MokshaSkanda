@@ -1,1 +1,107 @@
+.Titleforweb { 
+ text-align: center;
+  padding-bottom: 50px;
+}
 
+#startingtext {
+  color: #003d12;
+  display: incline-box; 
+
+  background-color: #9eba31;
+  border: 6px solid #2a3d00;
+  border-radius: 100px;
+  
+  padding: 2px 6px;
+  margin: 15px 4px;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+body {
+  background-color: #f2ffd6;
+  margin: 0;
+  padding: 0;
+  text-align:center;
+  font-family:'Indie Flower';
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1550px;
+  height: 337px;
+  margin-top: 30;
+  padding-top : 30; 
+}
+.Title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#help-Depression{
+  color: #003d12;
+  display: incline-box; 
+
+  background-color: #9eba31;
+  border: 6px solid #2a3d00;
+  border-radius: 10px;
+  
+  padding: 0px 0px;
+  margin: 20px 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#help-Stress{
+  color: #003d12;
+  display: incline-box; 
+
+  background-color: #9eba31;
+  border: 6px solid #2a3d00;
+  border-radius: 10px;
+  
+  padding: 0px 0px;
+  margin: 20px 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#help-Chemistry{
+  color: #003d12;
+  display: incline-box; 
+
+  background-color: #9eba31;
+  border: 6px solid #2a3d00;
+  border-radius: 10px;
+  
+  padding: 0px 0px;
+  margin: 20px 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#help-Sleep{
+  color: #003d12;
+  display: incline-box; 
+
+  background-color: #9eba31;
+  border: 6px solid #2a3d00;
+  border-radius: 10px;
+  
+  padding: 0px 0px;
+  margin: 20px 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#help-Downtime{
+  color: #003d12;
+  display: incline-box; 
+
+  background-color: #9eba31;
+  border: 6px solid #2a3d00;
+  border-radius: 10px;
+  
+  padding: 0px 0px;
+  margin: 20px 20px;
+  padding-left: 0;
+  padding-right: 0;
+}
